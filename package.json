@@ -1,0 +1,25 @@
+{
+  "name": "env-validation",
+  "version": "1.0.0",
+  "description": "Environment Variables Validation with Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineeringwitharavind/environment-validation.git"
+  },
+  "keywords": [
+    "env",
+    "validation",
+    "env-validation",
+    "schema"
+  ],
+  "author": "Aravind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/engineeringwitharavind/environment-validation/issues"
+  },
+  "homepage": "https://github.com/engineeringwitharavind/environment-validation#readme"
+}

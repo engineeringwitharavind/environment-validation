@@ -1,2 +1,3 @@
-# environment-validation
-Package Manager for `.env` validation with specific schema 
+### environment-validation
+
+Utility for `.env` validation with schema
